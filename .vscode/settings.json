@@ -1,0 +1,6 @@
+{
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.format": "rufo",
+  "ruby.intellisense": "rubyLocate",
+  "editor.formatOnSave": true
+}
